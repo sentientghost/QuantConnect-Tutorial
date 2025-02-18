@@ -114,6 +114,7 @@ lean cloud backtest <name_of_project> --push --open
 - [SpintWig - Comparative Investment Strategies][spintWig]
 - [LEAN Documentation][leanDocLink]
 - [Trillion Dollar Equation][trillionYTLink]
+- [How to Read Stock Charts for Beginners][stockChartsYTLink]
 
 [comment]: # (Variables)
 [pythonDownloadLink]: https://www.python.org/doc/versions/
@@ -125,3 +126,4 @@ lean cloud backtest <name_of_project> --push --open
 [spintWig]: https://spintwig.com/
 [leanDocLink]: https://www.lean.io/docs/v2/
 [trillionYTLink]: https://www.youtube.com/watch?v=A5w-dEgIU1M
+[stockChartsYTLink]: https://www.youtube.com/watch?v=J-ntsk7Dsd0&ab_channel=JamesRichYoung
